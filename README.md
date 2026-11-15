@@ -1,3 +1,5 @@
-Hi, I'm Sakina. I write tools I end up using every day: command-line clients for sites that don't have one, plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), and local search over my own notes and chats.
+hi, I'm Sakina.
 
-When a bug turns out to be interesting, I write it up at [soffits.github.io](https://soffits.github.io/).
+I mostly make little command-line tools, usually because some site has no API and I got tired of clicking through it. Lately that's a lot of plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), and [rummage](https://github.com/soffits/rummage), which I use to search my notes and old chats by what they mean instead of the exact words.
+
+If a bug gets interesting enough I write about it at [soffits.github.io](https://soffits.github.io/).
