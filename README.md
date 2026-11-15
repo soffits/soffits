@@ -1,5 +1,5 @@
-hey, i'm sakina 👋
+Hi, I'm Sakina.
 
-i build small tools, mostly because something annoyed me and i didn't want to deal with it twice. lots of CLIs for sites that never bothered with an API, a pile of plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), and [rummage](https://github.com/soffits/rummage), which i made so i could search my notes and old chats by vibe instead of exact keywords.
+I mostly build small tools for things that bug me. A lot of them are CLIs for sites with no API, and lately plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness). My favourite right now is [rummage](https://github.com/soffits/rummage), which I use to search my notes and old chats by meaning instead of exact words.
 
-when a bug turns out weirder than it had any right to be, i write about it on [my blog](https://soffits.github.io/).
+I sometimes write about bugs on [my blog](https://soffits.github.io/).
