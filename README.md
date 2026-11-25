@@ -9,7 +9,3 @@ Someday I want to make a small world that writes its own history, with villagers
 And if you ever want to lose me for an afternoon, mention the Voynich manuscript.
 
 I write about bugs and the things I build on [my blog](https://soffits.github.io/).
-
----
-
-`default.json` and `private.json` here are the shared Renovate presets for my repos (`"extends": ["local>soffits/soffits"]`, or `["local>soffits/soffits:private"]` where CI can't run).
